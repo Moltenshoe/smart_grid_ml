@@ -1,0 +1,21 @@
+# Core libraries
+pandas==2.2.3
+numpy==2.2.2
+
+# ML & Modeling
+xgboost==1.7.6
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+lightgbm==4.6.0
+joblib==1.4.2
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Output handling
+openpyxl==3.1.5
+XlsxWriter==3.2.2
+
+# Optional CSV/HTTP (if needed for input/output extensions)
+requests==2.32.3
